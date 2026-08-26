@@ -30,6 +30,7 @@ input {
 ::selection {
     background-color: rgb(105, 255, 41);
     color: rgb(0, 33, 4);
+    text-shadow: 0 0 5px limegreen, 0 0 10px limegreen;
 }
 
 header {
